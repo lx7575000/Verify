@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lx7575000/Verify.git"
+  },
+  "author": "lx7575000 <liu_narcisus@163.com> (https://github.com/lx7575000)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lx7575000/Verify/issues"
+  },
+  "homepage": "https://github.com/lx7575000/Verify#readme",
+  "devDependencies": {
+    "antd": "^1.11.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
